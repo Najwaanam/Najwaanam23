@@ -1,0 +1,26 @@
+{
+  "name": "Estelle Ramirez",
+  "age": 52,
+  "address": {
+    "street": "Sinhi Square",
+    "city": "Arvicef",
+    "state": "RI",
+    "zip": "67476"
+  },
+  "contact": {
+    "phone": "(350) 466-1132",
+    "servicePhone": "800561315"
+  },
+  "birthday": "1977-01-06T06:22:20.893Z",
+  "ip": "201.236.240.177",
+  "foo": "bar",
+  "profile": {
+    "about": "Ujawik bovof rafdaok tu zovfafa utle cawsodri fa weibiru vosnucgif ufo olutub pecavgak ochem emoje. Rojwoolu cemumhu hafo ah vu sonihzaj mef ca sip oj nananwo befed remwos noofapu eje. Nub ufma hedfailo fa panne deembo ewjebbe dutu sip latil gewni gug otitecaw icobakum sofbaic mow.",
+    "bio": "Ocibaj raosomoc ece vi uni her golnejah odicepo idiidi bekriuj iwisemis ochugab bumosri. Diwcoutu egutujzut felja es zeve pinoja lefanejo heivgi isufu bozol rinojebi ri luze wesiki foja iwvasim sosojec nofe. Nakemsa rif rosrachu ge ge ce jazsaat humza dohsed nomdidar fo nopjegin ajnelor bogip etrewge av dapov hublu."
+  },
+  "apiKey": "4f311aaaf10f42f04359945eca29cba4fe732a4cb3330a90d7f9205e2dbde751",
+  "currency": {
+    "code": "ETB",
+    "name": "Ethiopia Birr"
+  }
+}
