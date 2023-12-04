@@ -1,0 +1,26 @@
+{
+  "name": "Ollie Fowler",
+  "age": 63,
+  "address": {
+    "street": "Zabu Pike",
+    "city": "Saekeju",
+    "state": "MI",
+    "zip": "47090"
+  },
+  "contact": {
+    "phone": "(666) 230-6151",
+    "servicePhone": "800155959"
+  },
+  "birthday": "1991-11-17T16:12:12.654Z",
+  "ip": "157.138.157.42",
+  "foo": "bar",
+  "profile": {
+    "about": "Zucur ihen gij rimwoszuz deonajo jul ajmu gezavzi vi gotkac jon uronuk wuug cuohalel. Ujwe tanev ewece upoomvo nuberce kujhab se fujupfe tudul zef zepma mif. Suewbe ijazawit usgurad goepa kiwipaj kenwi havez abewu wik jouso gutumjib pumjevki ma gubzo negrupi javetwo fukbon cac.",
+    "bio": "Ri inofohu musithe lowiz opazokah ape gafal dintaja wavvil vaip kez ogerooj se taunviz atris ab hagigemu. Niwogsow fenico kumisca wembusic bidhifmuz detujov fum zi avu conra viju jezgivom jow opapiwmij gafezep ome rucve. Laza co pa nas ec go bajosjeh woaju cu gurolemom vurtum ca huw ha du."
+  },
+  "apiKey": "a3a4923fd6a3851bd074369865da7bb508e04eaf5d56ef9ec77fc476dc5a9a0f",
+  "currency": {
+    "code": "SGD",
+    "name": "Singapore Dollar"
+  }
+}
