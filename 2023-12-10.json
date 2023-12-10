@@ -1,0 +1,26 @@
+{
+  "name": "Francisco Barton",
+  "age": 25,
+  "address": {
+    "street": "Zeje Way",
+    "city": "Vofgugako",
+    "state": "KS",
+    "zip": "18128"
+  },
+  "contact": {
+    "phone": "(823) 765-5234",
+    "servicePhone": "800926759"
+  },
+  "birthday": "1999-05-06T12:06:35.944Z",
+  "ip": "190.5.128.188",
+  "foo": "bar",
+  "profile": {
+    "about": "Hafrohhuc neuzfa gututasa afhowpu kivki tiop kec bo jiwman zocusjak gaogi vudespe rev. Zem dev gumfigfa rodfe ketuaz virlig bolag dep ipja guwusap pulga gabpah bujnugko ado pice ca. Temwe mes nelval soblumew na sid apa sog mucma uwuoko jucap feh us evcefod ojfuk wuv teofoezi beninhi. Bu hep kepogu olokukaw bo soeno orizo udzecti lahi kugeb panarvaf cob vofolso rogdewwu wo wuku kejbu olutikeb. Igite juidve lo ga sichevro menuk kadurotu fewbubte jadias cujebpiv reppaw hatsiri.",
+    "bio": "Tovbal ni zaucsij ufnapro ce cehve ek bi di op meben uv zo vukbob pom. Zu pimu lus jahmi hov boup cun du nangug jejud reli rowzirje bi. Nu gamnol wo mimbek bo tacgasij tudsezve pujhuzoz wudjud zi he si ferlescuh tedircuh apinuni."
+  },
+  "apiKey": "6eb3f22d22454bdb96a7cb843f9816f352d41c5d749524f6c139acdc236ffd13",
+  "currency": {
+    "code": "LSL",
+    "name": "Lesotho Loti"
+  }
+}
