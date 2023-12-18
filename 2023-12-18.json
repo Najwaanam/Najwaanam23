@@ -1,0 +1,26 @@
+{
+  "name": "Katie Pittman",
+  "age": 24,
+  "address": {
+    "street": "Liru Plaza",
+    "city": "Heriac",
+    "state": "WA",
+    "zip": "34391"
+  },
+  "contact": {
+    "phone": "(864) 708-1537",
+    "servicePhone": "800112293"
+  },
+  "birthday": "1997-02-09T15:00:25.182Z",
+  "ip": "120.154.253.151",
+  "foo": "bar",
+  "profile": {
+    "about": "Juzmoc se piem tagukwut ruvsurimu uh dehiho hohcu wol vin li wudhuja femuilo oza gu bidaji teczuzbuv. Fudlussu sa bev imumadim woafi juivosum libuic deh jolah bosuke evice ane. Sicmedsiw monigni mi ibhoham won cagmome gonogum pol me cob dek hah dulwoj pa. Uzigut coran fejoban zignin bugusdu keosfod jeddo obezepum gis ewusug wirra cetaji. Dinwu haketnih dikunow tocetfo vu lecda tec gin decop uvzu lipu uvdez ja.",
+    "bio": "Vazzovnoj hoit epabaf lub kigpej fifhita giw ze noira fivevpuh bepivut muz lad ar sobijuj tadamte cesovdi. Gi ha jiwmiani beiwa tuze ono ko fe jifjos kokcak buvkuw gubub. Molkilad jokfek venij omgaar rem jabvun ih ceohumi usofa volmuvi epavushod siginvog kattangoc zed. Miwna sobilodo beto celgutviz kozo miefulul imisofsap upi ju fujhil puviz elosasa fowso tihanomo. Dicaki nat igoafata wat kojudpid ikadoh vaz ve vag guwdega af mok noir luf era coton jojkunoc."
+  },
+  "apiKey": "462c950f6e2f3a8b104c54c5aa6517734863a65578ea1ea41b29d3121e36132b",
+  "currency": {
+    "code": "YER",
+    "name": "Yemen Rial"
+  }
+}
