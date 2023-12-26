@@ -1,0 +1,26 @@
+{
+  "name": "Jose Singleton",
+  "age": 53,
+  "address": {
+    "street": "Vego Place",
+    "city": "Winariada",
+    "state": "ND",
+    "zip": "10792"
+  },
+  "contact": {
+    "phone": "(551) 376-3670",
+    "servicePhone": "800853943"
+  },
+  "birthday": "2000-04-04T18:18:06.776Z",
+  "ip": "49.206.92.12",
+  "foo": "bar",
+  "profile": {
+    "about": "Duhfojal eshanif hoeh ez zeas okzimek ha onserbe tocobul ab wanogbuj ugopa abtupan jomzoopi zisito erogaret jownefoh juvav. Riruhmo arhedafi vudif moobajez suhze cor niiwe vu ehca ruv utnup naroaj. Ibupim bofsaj fu takor na lop fuze nik jecu wug vi tav zogev tuzoced veb.",
+    "bio": "Ece zafkofoj wo soug kodnuh gumhekdim gucijaw ja ub mam vego povpega. Nofabi natepega joal dac oktofkim mis rocle locpiru nicabih sa hulo pet ejohavgu ifeut ophikke luhunig hudjepju pucudbe. Nuzerenoc moromgu purizu su icpigvig sov jabav ac af daz kuc so nagac. Puhew po bel ceupe me louc vipaut ve tefme wijut vizut cohmo avbajhuw tavew jubofumab. Inpawo be gug tuleava uviju uci nav catiz sikil duzaszu ezu ce hevbubti achifu epe afzuspuz elaow sap. Wod roznul juujmud kuz lu ocwo ranaca ka hehit is kuweffa me nuisla affis vi mij wo gudrir."
+  },
+  "apiKey": "a8f1821f5a77465e11045989a9e07031f7022c79385ed626101c557470667fd1",
+  "currency": {
+    "code": "JOD",
+    "name": "Jordan Dinar"
+  }
+}
