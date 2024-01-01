@@ -1,0 +1,26 @@
+{
+  "name": "Lilly Malone",
+  "age": 24,
+  "address": {
+    "street": "Saze Grove",
+    "city": "Awlivo",
+    "state": "TN",
+    "zip": "70429"
+  },
+  "contact": {
+    "phone": "(273) 688-3677",
+    "servicePhone": "800652427"
+  },
+  "birthday": "1998-10-31T08:02:00.502Z",
+  "ip": "85.24.133.138",
+  "foo": "bar",
+  "profile": {
+    "about": "Jur gij jag hacbas ifmucu itnir gela ircowre olzoc zeh zobjozuc se kuupbi ot ri jojaj al douwe. Poto iw terbu incufu vu aw loj ogime leblo rus kuc rokwidop tirit. Fo lem kavuda zojoj tep ziulki oja ver utjefdum pih jojo oru in hifguj kafezwe ovdunapi.",
+    "bio": "Lor lelacwa deinafu zowa ze po lof bihaci paeno vuj jodut nopzezu durmu abufesug utari. Naapu azo zifoku zaasuhu vakuah je vozfalju ru sezegoj kujulku ok nis pobnuc pit vage za. Ga pouluvuv hutseene ili fowliljuk vagani urcif wejaffat wefgamwar lap ri voziw bep. Javid fukiiz utajepu rog foali aneetno namduifa azsi upujiboco ojdeam leorugat osona taj ajzespik tajmup du secejus."
+  },
+  "apiKey": "7da0b2cb71d2168bc77929f6021eac15a1cc3d6fdb030846b675b5bfa87a4a21",
+  "currency": {
+    "code": "QAR",
+    "name": "Qatar Riyal"
+  }
+}
