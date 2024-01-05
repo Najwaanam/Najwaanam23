@@ -1,0 +1,26 @@
+{
+  "name": "Keith Thomas",
+  "age": 31,
+  "address": {
+    "street": "Hanja Path",
+    "city": "Vekahpug",
+    "state": "MS",
+    "zip": "52078"
+  },
+  "contact": {
+    "phone": "(715) 361-7874",
+    "servicePhone": "800387338"
+  },
+  "birthday": "1975-07-30T09:52:32.838Z",
+  "ip": "130.252.139.19",
+  "foo": "bar",
+  "profile": {
+    "about": "Pumrib ha hecpijzi gocive onepe umgud duz iwa bilbon aknehrud locupo dutgufu kad aluwa na mucif. Pimwo ti jibfuw tu eso gamumu utlok gam ruhcapnev moj todud fomen je jookpi iga recrok. Kaon uho kuv sowo tamhedmi meapja zipraju galfesiha adeam api fojiwav socoru felil bejbuz forufu keso. Ot la ra wab vilwu ubu jah bavu gerfow mammog gi bu eh awo huuginor. Ihhunneg isinenuw ci onase senosa osi iba inoisa supmuic epe mifusfuh jihguvus dotedsaj nurek pu tahkivara huz. Rel gez widnescag redfac lagecar siwavo umu cab ipuropej di odupin hum ateuweba domaz soswo.",
+    "bio": "Litivred mijkiri vuworri sida dut bi busahuba kos johighov ubutezgu gep suromano ulogu gur fo. Zumu locucseh mosfeav vig iwap pavpapa to ip nisobutih mimtur ef udetno hodbunan curobge. Telume zat epkebih zuhset vuaw ve dipwoklo omo fo asjolad mijevi liknufpim aw."
+  },
+  "apiKey": "6ccbaf8a2ed4b3726849063ce1af6fb9846e6777807487e6aba2a5afe64e69d3",
+  "currency": {
+    "code": "RUB",
+    "name": "Russia Ruble"
+  }
+}
