@@ -1,0 +1,26 @@
+{
+  "name": "Glen Hunter",
+  "age": 56,
+  "address": {
+    "street": "Irhu Mill",
+    "city": "Kapiapi",
+    "state": "MI",
+    "zip": "67214"
+  },
+  "contact": {
+    "phone": "(403) 404-6365",
+    "servicePhone": "800325326"
+  },
+  "birthday": "1967-05-13T05:50:55.047Z",
+  "ip": "214.195.223.63",
+  "foo": "bar",
+  "profile": {
+    "about": "Wonuli hi cofgihec judwizaj nece downufcu fed gicug cen ja ci laalon hus tezfamo ne. Jepa eb luc no kuvesjuw di ko zetvid cugi kuj tu heh. Deltucuk foji nagwatgi pama ovgedvo zapba kut kupebav af fusak hesut no.",
+    "bio": "Zu cis vibpe wuw uteot bujlu vu juju bivva mej rerhauwi jar opder zisitej ovu huhimkem. Gu vuf ifnor johvin daj odfulum izicaav tav vohla ro powole kibicis etogunik lavjafem itobofit wuwuz. Nonluvcin re bi cerfu vuv vonmeh tubev te uzamuj setule wuwne favecu guhibi toki ufurli. Fewnouci ona jihugol dete pi faru run emju po donse vanali rupsu rit co. Aca wogfo fiothip epo ogoze kaded ufober ahikikal gedmoome sov ekdup poemu osfaz fa ivadel. Iwana co tecre telolfav huvdaz kuca cugaris kiz mo tutooze dogtigki hufi sacokales su negkel. Veofa esjapaj aluneh be lepkepo pajjul mug dumarpe jefizil ac niigduf pizaip puf ruzcafob kekdik erumojib be."
+  },
+  "apiKey": "03c02af34fa7b6ee79050ad2cf357b158c4e6d235b43ea7221eddc847ec84c81",
+  "currency": {
+    "code": "NZD",
+    "name": "New Zealand Dollar"
+  }
+}
