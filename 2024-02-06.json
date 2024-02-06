@@ -1,0 +1,26 @@
+{
+  "name": "Emma Gregory",
+  "age": 21,
+  "address": {
+    "street": "Gigic Path",
+    "city": "Kigerjus",
+    "state": "KY",
+    "zip": "51152"
+  },
+  "contact": {
+    "phone": "(385) 430-8955",
+    "servicePhone": "800612868"
+  },
+  "birthday": "1969-04-05T23:57:13.855Z",
+  "ip": "41.10.165.30",
+  "foo": "bar",
+  "profile": {
+    "about": "Mijoboso rerzo owu cigpi lem agurep ve fod halpeur olateja pedad rubwirer ro fiz rozapu. Tu bo gajasdut sotsoara opocu guupu gudhajow mivo ogur lowebuzuv livi uti fuopugu bo refoko toomjoj moowji orcu. Mopitur ral jujig dik caf wem nec kure vowazup nukco wudfapoco kerimoso ezu wun opgopsu zudsijfa nutuj. Dencopfi zohve hobug wa uforiimo pemebilo kuhjaik lihe vedhi loapiza sowfat he. Duszigu ipe put lirum zifo nuceed cet losmu judnoti ujapuk towed oluic hawammeb ca.",
+    "bio": "Ureife jeafe hahu hawo owke na zusas azocokdow wuvin jugu tiwuga toho dafigrag kebpi. Pigufozib ujaji evtivif morefnes zegiwdo zel cofil lebe mu ve po alu eno reg sohzuuf ipi noh. Lifet sadi povis gon omiakokok vo ukne ukiol osa jeg tez irapin odolipu ig seimuha wa zelaf ku. Cibbuh hidkuf puwwop da nag evzem iclidef wej tijabho lozfozcic geizuc goskak di jibfehrug."
+  },
+  "apiKey": "38a211dd09752cf19148392e133935a42e9ce930fb2803fa6618e11655cd149b",
+  "currency": {
+    "code": "KPW",
+    "name": "Korea (North) Won"
+  }
+}
