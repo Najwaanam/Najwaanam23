@@ -1,0 +1,26 @@
+{
+  "name": "Mae Norton",
+  "age": 21,
+  "address": {
+    "street": "Huosi Place",
+    "city": "Nojobod",
+    "state": "MT",
+    "zip": "84397"
+  },
+  "contact": {
+    "phone": "(326) 450-4342",
+    "servicePhone": "800196516"
+  },
+  "birthday": "1970-05-10T10:23:49.276Z",
+  "ip": "159.246.208.69",
+  "foo": "bar",
+  "profile": {
+    "about": "Lofijkak nakeg ugibamwe guko usavafo koc pasi ozoow bat ziti buvboh zagod niru owu niju ligokooju. Baz je vujrereb dop debne omukuub ov muzoha ezmetoku asuazof hir jouramup. Muzut voh gepajzaz genfat mepag ku dav pebcuuw la tefesi emu polo pulva heb it giz.",
+    "bio": "Kafazne luvig gec po vebterto jamtaman ci hi tapotwiz domkof luedi zujvum ana lobjur. Wigmacef utasu sij mowup hobo ficzagu pi detikfuf jojonni tav oz zimiwo jefdan komifba kewvuto. Opoce maho me huze lufhihip himwihuma hezum cu lar dotibe gurigfih kezreb nus ove iwo ep. Gi ruh wucit ku mi ahuzmig nahihupi nob upedajsez egifom badjoir hole le ivweh vulev adcub."
+  },
+  "apiKey": "7fe37dc34ff9a73c50e3bc29e3f8e22d5ba183a88243783626d57e527fda3924",
+  "currency": {
+    "code": "HTG",
+    "name": "Haiti Gourde"
+  }
+}
