@@ -1,0 +1,26 @@
+{
+  "name": "Ivan Burns",
+  "age": 25,
+  "address": {
+    "street": "Webil River",
+    "city": "Pezuptog",
+    "state": "WI",
+    "zip": "22461"
+  },
+  "contact": {
+    "phone": "(254) 346-4635",
+    "servicePhone": "800378891"
+  },
+  "birthday": "1988-11-06T20:51:28.861Z",
+  "ip": "19.12.117.150",
+  "foo": "bar",
+  "profile": {
+    "about": "Ihdazuh laf boddeh dicevvuw ewpurvoj tiwa woju paludtub cubcathoj fej pol pogatodib po. Agcibaj ap mozedbaf vulci ruslud tihvi wogdutfu du lofcuf nebgeras an hocrowsab urajunle. Cipuzfe liso adu gidiz sogel kaike ulisat goevpiz gep zu heh tizul dubhog rob piezje fisfaiv ilni hamduheg. Do hahzuhgib ep tic cov pejoso uwletav zocevju jun ditegjeh osu epuw se vemibi mufru pil fus. Nentocos puheba naw lurkurfus akzovkap nigfip elo mok sunamupe fafwiw vik kari cor tiibbef zibo. Mor ela vidula kur uvedu reg elabi zunwabhiw wuwmo hocur odo pocralro pikgo ibepi sicwegow sop keoz nulo.",
+    "bio": "Lab ipaucbo zirluwi efu dahaliki sapzos hi deab jozocrez wociawo soenu um duawa dejvit vaf lo sun. Hum miluc miz macur nip gajapba kam otjekam in zoumeda uwusof cuci hogifu cualo. Cohdirut vozwokno bafwos nogi nokize nud digu rok ne arretsud si nozazoap obfa."
+  },
+  "apiKey": "870beeeeece1113dd7a2b4444ed860c026fe174b96d961c30b0fed0c85ca5891",
+  "currency": {
+    "code": "STD",
+    "name": "São Tomé and Príncipe Dobra"
+  }
+}
