@@ -1,0 +1,26 @@
+{
+  "name": "Mike Klein",
+  "age": 19,
+  "address": {
+    "street": "Pavu Avenue",
+    "city": "Sepahci",
+    "state": "WY",
+    "zip": "38321"
+  },
+  "contact": {
+    "phone": "(671) 375-2510",
+    "servicePhone": "800597559"
+  },
+  "birthday": "1999-02-16T04:09:21.097Z",
+  "ip": "119.136.255.129",
+  "foo": "bar",
+  "profile": {
+    "about": "Durzusak tinkafi aneawa uzatu vugij kohpu lep avaup cehlun vemti zuzak temja ku mi jeruc riko. Cuvadavuz eda cihotlu kop nocju hinak geltuv jipiz onfiafa deuh daf di sargoura gokac fos tari dorpivuh. Kahzusu du jernu ojes vonafsuj diawtog juoj udimi fibewe bufnu ro pev di colgaot. Ra dakok ce wiv arifaj pogotudi bif sejvid nim fewojok je ter ho viokare borano coj ezja. Lihmor cafevo pu ovzokel kugoog ofo hu zuokakup okusahe nibvu buca soges zeksiosa duh cab.",
+    "bio": "Ratbalzo loorevu lubpatgat ba sabakne cibkanu mijaew pi ez nar iftoita be. Gow fiuba refji al ned zevdid atabebih reibgib gufefhu mubpan olaku vucjo kiza mu pulanko sanun. Wi tuc pumojjul juwa iwtanuc dooho silnicruk urocenig dipamuzu lengoj cukwip iji bem. Tutisetu relafaz fap kuco iwi wur se wehvez gulkidu dagmejuk hirwih mu icuful gaijiove emoiforiv. Ag pispune ci igduico muline junibpu ko re zinif uwoebe omu gav nu liwukwes bipa."
+  },
+  "apiKey": "009809076a7ee39c27d06a104bacbe6d5d091cdb4b61c6151674962c5122583b",
+  "currency": {
+    "code": "SYP",
+    "name": "Syria Pound"
+  }
+}
