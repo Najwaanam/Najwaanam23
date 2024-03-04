@@ -1,0 +1,26 @@
+{
+  "name": "Carl Roberson",
+  "age": 27,
+  "address": {
+    "street": "Mamu Glen",
+    "city": "Faseho",
+    "state": "WY",
+    "zip": "80601"
+  },
+  "contact": {
+    "phone": "(789) 317-5136",
+    "servicePhone": "800421341"
+  },
+  "birthday": "1993-04-30T09:02:35.144Z",
+  "ip": "196.113.122.241",
+  "foo": "bar",
+  "profile": {
+    "about": "La viw tohfu hiriw digbonur gaar onziw cug se zeczen raggocpan opironun tev go bareh car vapvi zidiom. Wuz ifo ja meebibes humsu dosokwoz mumvisic kav vislipnu tagaita komufur iseci. Enudo howapu cit za fu pu dopi on efuebejoj voztohbic wucegkib obotevco do. Wo go ja ma roemu ew lonib hihwudu kem fahpavog keraena goji wo du.",
+    "bio": "Sisi gafhafzof awo ja widuk paunpit ka bak sezage vonab bobo von. Fu anowog nonnasjo ededi kajiz feutuiku wusso kabuk guda gatpu kol de cup. Patfara juvuwge zos lofur pi feh melosef lejidcig be re upeobjit roswa afpog fekget."
+  },
+  "apiKey": "23bc6f9c708369bda5ded294d7181d183e3df4e95e60a4ec1a156744cea3e5d2",
+  "currency": {
+    "code": "COP",
+    "name": "Colombia Peso"
+  }
+}
