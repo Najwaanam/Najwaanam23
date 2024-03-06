@@ -1,0 +1,26 @@
+{
+  "name": "Hester Curtis",
+  "age": 23,
+  "address": {
+    "street": "Uveize Drive",
+    "city": "Ezapozap",
+    "state": "AL",
+    "zip": "52303"
+  },
+  "contact": {
+    "phone": "(652) 650-8859",
+    "servicePhone": "800883485"
+  },
+  "birthday": "1978-02-27T02:04:58.370Z",
+  "ip": "103.129.50.248",
+  "foo": "bar",
+  "profile": {
+    "about": "Miso jihocowij zo hed ca tuberlof jokditum rasi rehve vini lem solov itauja tavce bik pus. Fo ra rerju leji berege wume one fewofome cat toshugfa anleb owdu. Degbigo zuh konjatu pan cike ibta hafzenko onoca vodlem no zijafesi ku.",
+    "bio": "Kaggarpak fewi ac humhured ra aco ike lilsesej olaawu sidijog da ebes uwsitpi cechus re varpe zeavo ziztez. Saz fodvit ujevos lohtih hobu vuh pafi moape ij ato onebig metic nipwavizi ihecohfi. Od mesevlep mocafbu get dogi lewco rarguj pov upfun feluti ruoca roce rih dogbuzi nal. Ab doz basadu kawun jibbe totowo jimmorli uwboksu osla korelpoc pi ha."
+  },
+  "apiKey": "6553752dd43ae21bdc1f10989cbbd5cc28d7a3350a06da8d1d8bb70f706a5a5e",
+  "currency": {
+    "code": "KMF",
+    "name": "Comoros Franc"
+  }
+}
