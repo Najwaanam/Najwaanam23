@@ -1,0 +1,26 @@
+{
+  "name": "Todd Stephens",
+  "age": 22,
+  "address": {
+    "street": "Esise Park",
+    "city": "Lusnivzu",
+    "state": "FL",
+    "zip": "46749"
+  },
+  "contact": {
+    "phone": "(973) 945-7523",
+    "servicePhone": "800128199"
+  },
+  "birthday": "1984-06-17T15:49:18.129Z",
+  "ip": "13.144.172.87",
+  "foo": "bar",
+  "profile": {
+    "about": "Sibowca giddi memran olazod heih dofnu unfe moulvuj lihis vojow facviis zus dufvo ofoib afimucor von rifuramu ca. Va caldi du ceramit jerag ewirozwac gagiema geibsow muuk tejjohzoh acohapnu orihu. Biw jor ucoiv vanuhki sokab moduhaz owico zibsovoca jeizone bizuzep senfu pu tiwzois maewa. Po ta ic zifig vijkefug idebawis isuv cose piki teba olure utohu pi. Lomoh sehu racokaw wohece pac altavek efipeled ovehu vispu keon fuju vij to sejkubmah le cal mapdena soaj.",
+    "bio": "Go vin kestog wov we ij de cav ej gallutop avpewli talpuhror duk kustek. Guwnido ce iphoc mufob ic hodimpu nid pisuge zenidwaz goh fogot anu irolojkuv pefcofeko oja. Za lozer voka hetiv leekedi woudimup huznicmum kemha di izota agluh deec ujibi poj miezo. Riwikje kuh ehete zaha amojut mu mutopuse noc gulu run gafumtec nepdu. Hauta ki veziwhub ukadad ru ibkesi rup fuf nicek mucgotir gejup tanep ikbegkut hu."
+  },
+  "apiKey": "9d3a62afe9efc808886e8f0e613761716d63e9dc9af47390df0ffa2f4a516106",
+  "currency": {
+    "code": "GHS",
+    "name": "Ghana Cedi"
+  }
+}
