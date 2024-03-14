@@ -1,0 +1,26 @@
+{
+  "name": "Lucy Phelps",
+  "age": 19,
+  "address": {
+    "street": "Repu Trail",
+    "city": "Kiginzi",
+    "state": "LA",
+    "zip": "35592"
+  },
+  "contact": {
+    "phone": "(830) 522-8209",
+    "servicePhone": "800377285"
+  },
+  "birthday": "1963-05-06T09:46:45.913Z",
+  "ip": "231.232.82.154",
+  "foo": "bar",
+  "profile": {
+    "about": "Zecse tihumvat di nabsuh zopuj fuswimej ruju dioz unkezfoc pe do tin di. Ridajhor vawifiki cav aseabdi lofceb iwedeil ozuhef okene fef zicgu cubaf zoidiz do neujefoz lenvil hupoat nepcuwtu. Ru ef had populzob nib duevi divrureje afda jimwotu apu nif suvluf siomerok vug suma. Wirte co zidulmi cuputje zatgunih ricew lilmag banuani fibujva wiaw use corlo.",
+    "bio": "Pi emrel bigwaji alcic rukac jat kifefdef vocmipa meztiw la razewu ki bagfa. Tiwvov zamazuv ku jopugheb lavul hibcu bepnekci uwo fu idal patozraf jeita woijiopu toga je. Lavom ujva iha tirkuka net ru ow pah obpukguk ir ju volog romnuv wutrisim."
+  },
+  "apiKey": "76ab09b52a88f7003728aaebbbe6e5a586bafb8cf54a64f0819787414ec4de66",
+  "currency": {
+    "code": "COP",
+    "name": "Colombia Peso"
+  }
+}
