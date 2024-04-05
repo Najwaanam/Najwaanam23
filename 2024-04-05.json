@@ -1,0 +1,26 @@
+{
+  "name": "Ryan Jacobs",
+  "age": 42,
+  "address": {
+    "street": "Pezij Loop",
+    "city": "Jurotwed",
+    "state": "KS",
+    "zip": "30249"
+  },
+  "contact": {
+    "phone": "(762) 837-7045",
+    "servicePhone": "800231535"
+  },
+  "birthday": "1959-04-26T21:28:59.277Z",
+  "ip": "214.135.79.168",
+  "foo": "bar",
+  "profile": {
+    "about": "Jocwot mibihce pu tuwomuibi jupido lurnew ohoapedi medadgib ba rijoh vegij noruk. Ic rusun vogcige voukape baelasu lacci lur veefukun vefeeke fu ho moapi eg. Dimo ju taep bod mokouv bi fugrafo noz ba to le urnej un ow amegazot posgac. Wo luto izagfo diges bid sevrom fuz acricmu da ap gu wis ka jel dakbo burfivem du. Evebna zobo apinom azu faan se co recu sossu ewiwinel tig kakpezi ugakudci ko dekamov huv soniut ti. Bupro vovkujalu buswic obcosce sogkamju udvakhec faig waceruf er pa dofbaheg eja diphiz epa. Itve ara coga vakuknaf sigdoase ra ji webabogi razza emkeva ut cil hibca lavudac iweti cin.",
+    "bio": "Nowa kaarme jizot vahul cowjaf zodu ho be kajum resaruje be co itodi ropse gusmi. Lefropa nis folilu vuelunog guhev hacanhu ekififep lup cap wowcihlug ehaboj ic kogbi. Wuc juknimmu has bu imvel biv belbu gu wuci doksakmif bew fezdah otahe karlobe iraezba buzetu me rabkiscil."
+  },
+  "apiKey": "2fc2863e9f734b98fee787ca1ade2a70361206bf52b273ac115daa2d5305eb4e",
+  "currency": {
+    "code": "BYR",
+    "name": "Belarus Ruble"
+  }
+}
